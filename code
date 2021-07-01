@@ -10,7 +10,7 @@
 <h1>Quotes currency</h1>
 
 <table class="currency">
-    <tr><th>Код</th><th>Units</th><th>Currency</th><th>Russian currency</th><th>Changes</th></tr>
+    <tr><th>Code</th><th>Units</th><th>Currency</th><th>Russian currency</th><th>Changes</th></tr>
     <tr><td>USD</td><td>1</td><td>USA dollars</td><td>63.1742</td><td>-0.2600</td></tr>
     <tr><td>EUR</td><td>1</td><td>Euro</td><td>69.7443</td><td>-0.3822</td></tr>
     <tr><td>AUD</td><td>1</td><td>Australian dollar</td><td>42.6173</td><td>-0.0866</td></tr>
